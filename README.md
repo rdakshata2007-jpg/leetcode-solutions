@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/rdakshata2007-jpg/leetcode-solutions/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/rdakshata2007-jpg/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rdakshata2007-jpg/leetcode-solutions/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/rdakshata2007-jpg/leetcode-solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
