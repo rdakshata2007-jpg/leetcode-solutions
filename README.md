@@ -13,15 +13,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/rdakshata2007-jpg/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/rdakshata2007-jpg/leetcode-solutions/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rdakshata2007-jpg/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/rdakshata2007-jpg/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rdakshata2007-jpg/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rdakshata2007-jpg/leetcode-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/rdakshata2007-jpg/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rdakshata2007-jpg/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rdakshata2007-jpg/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rdakshata2007-jpg/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -35,8 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rdakshata2007-jpg/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/rdakshata2007-jpg/leetcode-solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rdakshata2007-jpg/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rdakshata2007-jpg/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
